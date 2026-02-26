@@ -5,12 +5,9 @@ I am reanalyzing single-cell RNASeq from Single-nucleus transcriptional and chro
 Project structure:
 
 ├── data
-
 ├── README.md
-
 └── scripts
-
-    └── logs
+  └── logs
 
 data is where the fastq files will be downloaded to
 scripts is where I will store the scripts to run Cell Ranger
