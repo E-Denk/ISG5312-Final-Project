@@ -3,10 +3,13 @@ This is my final project for ISG5312.
 I am reanalyzing single-cell RNASeq from Single-nucleus transcriptional and chromatin accessibility analyses of maturing mouse Achilles tendon uncover the molecular landscape of tendon stem/progenitor cells.
 
 Project structure:
-.
+
 ├── data
+
 ├── README.md
+
 └── scripts
+
     └── logs
 
 data is where the fastq files will be downloaded to
