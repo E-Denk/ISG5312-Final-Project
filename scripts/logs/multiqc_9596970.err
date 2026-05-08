@@ -1,0 +1,9 @@
+
+  /// MultiQC 🔍 | v1.15
+
+|           multiqc | Search path : /home/FCAM/edenker/isg5312/finalproject/results/01_downloadandqc/fastqc_reports
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 8/8  
+|            fastqc | Found 4 reports
+|           multiqc | Report      : ../../results/01_downloadandqc/multiqc/multiqc_report.html
+|           multiqc | Data        : ../../results/01_downloadandqc/multiqc/multiqc_data
+|           multiqc | MultiQC complete
